@@ -8,11 +8,6 @@
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkatQuas&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></p> -->
 
-[![nprogresse](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=AkatQuas&repo=nprogresse)](https://github.com/AkatQuas/nprogresse)
-[![vue-visibility-sensor](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=AkatQuas&repo=vue-visibility-sensor)](https://github.com/AkatQuas/vue-visibility-sensor)
-[![kiddo-plays](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=AkatQuas&repo=kiddo-plays)](https://github.com/AkatQuas/kiddo-plays)
-[![My Blog](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=AkatQuas&repo=AkatQuas.github.io)](https://github.com/AkatQuas/AkatQuas.github.io)
-
 <!--
 
 This README is inspired by these awesome people:
