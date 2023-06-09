@@ -1,4 +1,4 @@
-![冷蝉-洛天依](./cover.jpg)
+<div style="text-align: center;"><img src="./cover.jpg" style="width: auto; height: 280px;" alt="冷蝉-洛天依"></div>
 
 **[Original Image Address](https://www.pixiv.net/en/artworks/82924488). All rights reserved to the author [冷蝉](https://www.pixiv.net/en/users/5042278).**
 
